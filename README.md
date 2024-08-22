@@ -1,4 +1,4 @@
 # portfolio
-This is my portfolio
-<hr>Autho: RUSHI KADMA </hr> <br>
+This is my portfolio <br>
+Autho: RUSHI KADMA  <br>
 Today i start learn Git and Github
